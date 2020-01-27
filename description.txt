@@ -1,0 +1,52 @@
+==Organization work
+- Security Trainings
+- Security Awareness
+- Metrics and Performance Management
+
+==Demand
+- Security Requirements
+- Security Checklist
+- Security Initiatives
+
+==Planning
+- Scoring and Prioritization
+
+==Design, Analytics and Architecture
+- Advanced Security Requirements
+- Security Architecture Analysis
+- Threat Modelling
+- Risk Management
+
+==Development
+- Security Coding Standards and Practices
+- Security Design Patterns
+- Secure Frameworks and Approved Modules
+- Security COde Review
+
+==Build
+- SAST
+- Dependency Check
+
+==Testing
+- DAST
+- IAST
+- Internal pentests
+- Log Review
+- TDS (test-driven security)
+
+==Deployment
+- Secure Configuration (baselines)
+- Vulnerability Scanning (manual)
+- Secure Deployment
+- Security Solution Integration (e.g. SIEM)
+- WAF Configuration
+
+==Maintenance
+- Security Incident Management
+- Security Pathing
+- Vulnerability Scanning (planned)
+- Threat Hunting
+
+==Retrospective
+- Scheduled Pentests
+- Security Assessment and Threat Modelling Review
