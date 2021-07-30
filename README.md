@@ -13,7 +13,7 @@
 - Scoring and Prioritization
 - Security State Board
 
-# Design, Analytics and Architecture
+# Design
 - Detailed Security Requirements
 - Secure Architecture
 - Threat Modelling
