@@ -1,7 +1,7 @@
-# Organization work
-- Security Trainings
+# People
+- Security Trainings and Workshops
 - Security Awareness
-- Metrics and Performance Management
+- Security KPI and Metrics
 - PoC Demonstration
 
 # Demand
@@ -14,16 +14,16 @@
 - Security State Board
 
 # Design, Analytics and Architecture
-- Advanced Security Requirements
-- Security Architecture Analysis
+- Detailed Security Requirements
+- Secure Architecture
 - Threat Modelling
-- Risk Management
+- Information Security Risk Management
 - Security TechRadar
 
 # Development
 - Security Coding Standards and Practices
 - Security Design Patterns
-- Secure Frameworks and Approved Modules
+- Secure Frameworks
 - Security Code Review
 
 # Build
@@ -35,20 +35,20 @@
 - IAST
 - Internal pentests
 - Log Review
-- TDS (test-driven security)
+- Test Driven Security
 - External Pentests
 
 # Deployment
-- Secure Configuration (baselines)
-- Vulnerability Scanning (manual)
+- Secure Configuration
+- On Demand Vulnerability Scanning
 - Secure Deployment
-- Security Solution Integration (e.g. SIEM)
-- WAF Configuration
+- Initial Security Solutions Integration
+- WAF
 
 # Maintenance
 - Security Incident Management
 - Security Pathing
-- Vulnerability Scanning (planned)
+- Scheduled Vulnerability Scanning
 - Threat Hunting
 - Attack Surface Intelligence
 - Bug Bounty
