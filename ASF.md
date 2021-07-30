@@ -1,36 +1,36 @@
-==Organization work
+# Organization work
 - Security Trainings
 - Security Awareness
 - Metrics and Performance Management
 - PoC Demonstration
 
-==Demand
+# Demand
 - Security Requirements
 - Security Checklist
 - Security Initiatives
 
-==Planning
+# Planning
 - Scoring and Prioritization
 - Security State Board
 
-==Design, Analytics and Architecture
+# Design, Analytics and Architecture
 - Advanced Security Requirements
 - Security Architecture Analysis
 - Threat Modelling
 - Risk Management
 - Security TechRadar
 
-==Development
+# Development
 - Security Coding Standards and Practices
 - Security Design Patterns
 - Secure Frameworks and Approved Modules
 - Security Code Review
 
-==Build
+# Build
 - SAST
 - Dependency Check
 
-==Testing
+# Testing
 - DAST
 - IAST
 - Internal pentests
@@ -38,14 +38,14 @@
 - TDS (test-driven security)
 - External Pentests
 
-==Deployment
+# Deployment
 - Secure Configuration (baselines)
 - Vulnerability Scanning (manual)
 - Secure Deployment
 - Security Solution Integration (e.g. SIEM)
 - WAF Configuration
 
-==Maintenance
+# Maintenance
 - Security Incident Management
 - Security Pathing
 - Vulnerability Scanning (planned)
@@ -54,6 +54,6 @@
 - Bug Bounty
 - ASF Compliance
 
-==Retrospective
+# Retrospective
 - Scheduled Pentests
 - Security Assessment and Threat Modelling Review
