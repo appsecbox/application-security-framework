@@ -2,6 +2,7 @@
 - Security Trainings
 - Security Awareness
 - Metrics and Performance Management
+- PoC Demonstration
 
 ==Demand
 - Security Requirements
@@ -10,18 +11,20 @@
 
 ==Planning
 - Scoring and Prioritization
+- Security State Board
 
 ==Design, Analytics and Architecture
 - Advanced Security Requirements
 - Security Architecture Analysis
 - Threat Modelling
 - Risk Management
+- Security TechRadar
 
 ==Development
 - Security Coding Standards and Practices
 - Security Design Patterns
 - Secure Frameworks and Approved Modules
-- Security COde Review
+- Security Code Review
 
 ==Build
 - SAST
@@ -33,6 +36,7 @@
 - Internal pentests
 - Log Review
 - TDS (test-driven security)
+- External Pentests
 
 ==Deployment
 - Secure Configuration (baselines)
@@ -46,6 +50,9 @@
 - Security Pathing
 - Vulnerability Scanning (planned)
 - Threat Hunting
+- Attack Surface Intelligence
+- Bug Bounty
+- ASF Compliance
 
 ==Retrospective
 - Scheduled Pentests
