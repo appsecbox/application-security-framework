@@ -1,23 +1,36 @@
-# 
+# Prerequisites 
+* Define security requirements
+* Define data classifications
+* Define risk appetite 
+* Define critial business processeses 
+* Define development stack, instruments and frameworks
+* Define security metrics (how to understand is a team good in security or not)
 
+
+# Development lifecycle activities
 | Stage | Activity | Target | Type | Automated | Scheduled |
 | --- | --- | --- | --- | --- | --- |
-| Oranigational work | Trainings & Workshops | People | Worskshop | No | Yes |
+| Demand on developement | Security Requirements Complaence | Analysts | Checklist | Partially | Every new business demand |
+| Demand on developement | Scoring & Prioritization | Business owners | Tasks | No | Every sprint |
+
+# Activities outside developement lifecycle
+| Stage | Activity | Target | Type | Automated | Scheduled |
+| --- | --- | --- | --- | --- | --- |
+| Demand | Security Initiatives | Business owners | Tasks | No | On demand |
+
+# Non developlent activities
+| Stage | Activity | Target | Type | Automated | Scheduled |
+| --- | --- | --- | --- | --- | --- |
+| Oranigational work | Trainings & Workshops | Developers, Operations, Analysts, QA | Worskshop, online school | No | Quaterly |
+| Oranigational work | Awareness | Developers, Operations, Analysts, QA, Business owners, Executives | Newsletter | Partially | Weekly |
+| Oranigational work | Security KPI | Business owners, Executives | Agreement | No | Yearly |
+
+# Internal AppSec Activities
+| Stage | Activity | Target | Type | Automated | Scheduled |
+| --- | --- | --- | --- | --- | --- |
+| Oranigational work | Security State Board | CISO, Business Owners | Report | Yes | Weekly |
 
 
-- [Scheduled] Security Trainings and Workshops
-- [Continuously] Security Awareness
-- [Documented] Security KPI and Metrics
-- [] PoC Demonstration
-
-# Demand
-- Security Requirements
-- Security Checklist
-- Security Initiatives
-
-# Planning
-- Scoring and Prioritization
-- Security State Board
 
 # Design
 - Detailed Security Requirements
