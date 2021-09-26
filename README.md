@@ -9,7 +9,7 @@
 
 # Development lifecycle activities
 | Stage | Activity | Target | Type | Involved | Artifacts | Automated | Scheduled |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Demand on developement | Security Requirements Complaence | Business Request | Checklist | Business, Analysts | Report | Partially | Every new business demand |
 | Demand on developement | Scoring & Prioritization | Business Request | Rank | Business Owners | Commitments | No | Every sprint |
 | Development | Security Code Review | Source Code | Merge-request Approve | Developers | Approve | No | Every MR |
