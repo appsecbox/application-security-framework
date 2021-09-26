@@ -8,21 +8,21 @@
 
 
 # Development lifecycle activities
-| Stage | Activity | Target | Type | Automated | Scheduled |
+| Stage | Activity | Target | Type | Involved | Artifacts | Automated | Scheduled |
 | --- | --- | --- | --- | --- | --- |
-| Demand on developement | Security Requirements Complaence | Analysts | Checklist | Partially | Every new business demand |
-| Demand on developement | Scoring & Prioritization | Business owners | Tasks | No | Every sprint |
-| Development | Security Code Review | Developers | Merge-request Approve | Partially | Every MR |
-| Development | Security Autotests | Developers | Auto-tests | Yes | Every build |
-| Build | Static Application Security Testing | Developers | Report | Yes | Every build |
-| Build | Dynamic Application Security Testing | Developers | Report | Yes | Every build |
-| Build | Dependency check | Developers | Report | Yes | Every build |
-| Testing | Interactive Application Security Testing | Developers | Report | Yes | Every build |
-| Testing | Internal Penetration Testing | Developers | Report | No | Every minor release |
-| Testing | External Penetration Testing | Developers | Report | No | Every major release |
-| Testing | Log Review | Developers | Report | Yes | Every Build |
-| Deployment | Secure Deployment | Operations | Logs | Yes | Every Deploy |
-| Deployment | Web Application Firewall | Operations | WAF rules | Partially | Every Deploy |
+| Demand on developement | Security Requirements Complaence | Business Request | Checklist | Business, Analysts | Report | Partially | Every new business demand |
+| Demand on developement | Scoring & Prioritization | Business Request | Rank | Business Owners | Commitments | No | Every sprint |
+| Development | Security Code Review | Source Code | Merge-request Approve | Developers | Approve | No | Every MR |
+| Development | Security Autotests | Source Code | Auto-tests | Developers, QA | Auto-tests report | Yes | Every build |
+| Build | Static Application Security Testing | Source Code | Tool | Developers | Report | Yes | Every build |
+| Build | Dynamic Application Security Testing | Application | Tool | Operations | Report | Yes | Every build |
+| Build | Dependency check | Source Code | Tool | Developers | Report | Yes | Every build |
+| Testing | Interactive Application Security Testing | Application | Tool | Operations | Report | Yes | Every regress test |
+| Testing | Internal Penetration Testing | Application | Tool | Developers, Operations, QA | Report | No | Every minor release |
+| Testing | External Penetration Testing | Application | Tool | Developers, Operations, QA | Report | No | Every major release |
+| Testing | Log Review | Application's log | Tool | Developers | Report | Yes | Every regress test |
+| Deployment | Secure Deployment | Deployment | Process | Operations | Logs | Yes | Every Deploy |
+| Deployment | Web Application Firewall | External Endpoints | Tool | Operations, Developers, QA | WAF rules | Partially | Every Deploy |
 
 # Activities outside developement lifecycle
 | Stage | Activity | Target | Type | Automated | Scheduled |
