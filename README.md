@@ -1,8 +1,14 @@
-# People
-- Security Trainings and Workshops
-- Security Awareness
-- Security KPI and Metrics
-- PoC Demonstration
+# 
+
+| Stage | Activity | Target | Type | Automated | Scheduled |
+| --- | --- | --- | --- | --- | --- |
+| Oranigational work | Trainings & Workshops | People | Worskshop | No | Yes |
+
+
+- [Scheduled] Security Trainings and Workshops
+- [Continuously] Security Awareness
+- [Documented] Security KPI and Metrics
+- [] PoC Demonstration
 
 # Demand
 - Security Requirements
